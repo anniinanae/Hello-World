@@ -2,5 +2,10 @@
 Nimi: Anniina Nae
 Tässä repossa harjoitellaan GitHubin käyttöä
 # GIT harjoittelu
-## Otsikko taso 2
-### Otsikko taso 3
+## Git:n edut
+Git auttaa tallentamaan muutokset ja seuraamaan kehitystä
+### Lisää etuja
+- muutosten hallinta
+- versionhallinta
+- helppo yhteistyö
+- turvallinen koodin tallennus
